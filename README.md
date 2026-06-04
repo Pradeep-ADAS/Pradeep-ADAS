@@ -1,35 +1,37 @@
 # 🚗 About Me
 
-Hi, I'm **[Your Name]**, an **M.Sc. Automotive Systems Engineering** graduate passionate about developing intelligent mobility solutions.
+Hi, I'm Pradeep, an M.Sc. Automotive Engineering graduate passionate about building intelligent mobility solutions. I have ~3 years of experience working across the automotive domain in different engineering roles.
 
-My areas of interest include:
+My areas of expertise include:
 
-- 🤖 AI/ML for Mobility
-- 🚘 ADAS & Autonomous Systems
-- ⚙️ Systems Engineering, Model-Based Design, Testing & Validation
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+- 🤖 AI/ML for mobility applications
+- 🚘 ADAS & autonomous systems
+- ⚙️ Systems engineering, model-based design, testing & validation
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
-### Programming & Development
+### Programming & Development Toolkit
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,anaconda,aws,azure,c,pytorch,sklearn&theme=light)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00)
-![Simulink](https://img.shields.io/badge/Simulink-FF6F00)
-![Stateflow](https://img.shields.io/badge/Stateflow-FF6F00)
+### Simulation Toolkit
 
-### AI / Machine Learning
+![IPG CarMaker](https://img.shields.io/badge/IPG_CarMaker-0055A4)
+![IPG TruckMaker](https://img.shields.io/badge/IPG_TruckMaker-0055A4)
+![Altair MotionView](https://img.shields.io/badge/Altair_MotionView-FF6F00)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B)
+![CATIA](https://img.shields.io/badge/CATIA-005386)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+### AI / ML Techniques
+
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-4CAF50)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-2196F3)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-8E44AD)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-009688)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-607D8B)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-795548)
 
 ### ADAS & Autonomous Systems
 
@@ -85,3 +87,6 @@ My areas of interest include:
 ### Programming & Development
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,anaconda&theme=light)](https://skillicons.dev)
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
