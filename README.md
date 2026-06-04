@@ -13,7 +13,7 @@ My areas of expertise include:
 # 🛠️ Skills & Technologies
 
 ### Programming & Development Toolkit
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,anaconda,aws,azure,c,pytorch,sklearn&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,anaconda,aws,azure,c,pytorch,sklearn,github&theme=light)](https://skillicons.dev)
 
 ### Simulation Toolkit
 
@@ -75,11 +75,6 @@ My areas of expertise include:
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### Programming & Development
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,anaconda&theme=light)](https://skillicons.dev)
-
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-madhan-529716157/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepmadanagopalan@gmail.com)
