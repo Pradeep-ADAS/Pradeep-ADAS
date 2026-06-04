@@ -82,10 +82,10 @@ My areas of expertise include:
 ### ⚙️ Systems Engineering & V&V
 
 <p align="center">
-  <img src="Resources/Systems_VV.gif" width="800"/>
+  <img src="TCS_Intro_GIF.gif" width="800"/>
 </p>
 
-🔗 Relevant Work:
+🔗 Relevant Repositeries:
 - [MIL/SIL Simulation Framework](https://github.com/yourrepo5)
 - [HIL Testing / Validation Setup](https://github.com/yourrepo6)
 
