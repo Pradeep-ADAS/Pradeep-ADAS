@@ -80,11 +80,8 @@ My areas of interest include:
 
 ---
 
-## 📈 What You'll Find Here
+## 🛠️ Skills & Technologies
 
-- Vehicle Dynamics & Simulation
-- ADAS & Autonomous Driving Projects
-- AI/ML Applications for Mobility
-- MATLAB/Simulink & Python Development
-- Testing, Verification & Validation Frameworks
-- Model-Based Design & Automation Workflows
+### Programming & Development
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,anaconda&theme=light)](https://skillicons.dev)
+
