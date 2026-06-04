@@ -82,14 +82,32 @@ My areas of expertise include:
 ### ⚙️ Systems Engineering & V&V
 
 <p align="center">
-  <img src="TCS_Intro_GIF.gif" width="800"/>
+  <img src="TCS_Intro_GIF.gif" width="380"/>
+  <img src="TCS_Intro_GIF.gif" width="380"/>
 </p>
 
-🔗 Relevant Repositeries:
+🔗 Relevant Repositories:
+- [MIL/SIL Simulation Framework](https://github.com/Pradeep-ADAS/tcs)
+- [HIL Testing / Validation Setup](https://github.com/yourrepo6)
+- 
+---
+
+### ⚙️ Systems Engineering & V&V
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="TCS_Intro_GIF.gif" width="350"/>
+    </td>
+    <td align="center">
+      <img src="TCS_Intro_GIF.gif" width="350"/>
+    </td>
+  </tr>
+</table>
+
+🔗 Relevant Repositories:
 - [MIL/SIL Simulation Framework](https://github.com/yourrepo5)
 - [HIL Testing / Validation Setup](https://github.com/yourrepo6)
-
----
 
 ## 🔗 Connect with Me
 
