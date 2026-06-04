@@ -53,25 +53,41 @@ My areas of expertise include:
 
 ---
 
-## 🔍 Featured Work
+# 🔍 Featured Work
 
 ### 🤖 AI/ML for Mobility
 
 <p align="center">
-  <img src="Resources/AI_Mobility.png" width="800"/>
+  <img src="Resources/AI_Mobility.gif" width="800"/>
 </p>
+
+🔗 Relevant Work:
+- [AI/ML Project 1](https://github.com/yourrepo1)
+- [Time Series / Sensor Data Analysis](https://github.com/yourrepo2)
+
+---
 
 ### 🚘 ADAS & Autonomous Systems
 
 <p align="center">
-  <img src="Resources/ADAS_Project.png" width="800"/>
+  <img src="Resources/ADAS_Project.gif" width="800"/>
 </p>
 
-### ⚙️ Systems Engineering, MBD & V&V
+🔗 Relevant Work:
+- [Sensor Fusion Project](https://github.com/yourrepo3)
+- [Motion Planning Simulation](https://github.com/yourrepo4)
+
+---
+
+### ⚙️ Systems Engineering & V&V
 
 <p align="center">
-  <img src="Resources/Systems_VV.png" width="800"/>
+  <img src="Resources/Systems_VV.gif" width="800"/>
 </p>
+
+🔗 Relevant Work:
+- [MIL/SIL Simulation Framework](https://github.com/yourrepo5)
+- [HIL Testing / Validation Setup](https://github.com/yourrepo6)
 
 ---
 
