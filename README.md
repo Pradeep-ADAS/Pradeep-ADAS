@@ -99,22 +99,22 @@ My areas of expertise include:
     <td align="center">
       <img src="TCS_Intro_GIF.gif" width="320"/><br>
       <b>MIL/SIL Simulation Framework</b><br>
-      <a href="https://github.com/yourrepo1">🔗 Repository</a>
+      🔗 <a  href="https://github.com/yourrepo1"> Repository</a>
     </td>
     <td align="center">
       <img src="TCS_Intro_GIF.gif" width="320"/><br>
       <b>HIL Validation Platform</b><br>
-      <a href="https://github.com/yourrepo2">🔗 Repository</a>
+     🔗  <a href="https://github.com/yourrepo2">Repository</a>
     </td>
     <td align="center">
       <img src="TCS_Intro_GIF.gif" width="320"/><br>
       <b>ISO 26262 Test Automation</b><br>
-      <a href="https://github.com/yourrepo3">🔗 Repository</a>
+     🔗 <a href="https://github.com/yourrepo3"> Repository</a>
     </td>
     <td align="center">
       <img src="TCS_Intro_GIF.gif" width="320"/><br>
       <b>ISO 26262 Test Automation</b><br>
-      <a href="https://github.com/yourrepo3">🔗 Repository</a>
+      🔗 <a href="https://github.com/yourrepo3"> Repository</a>
     </td>
   </tr>
 </table>
